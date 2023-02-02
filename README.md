@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/LPDev93">
-    <img src="https://i.postimg.cc/C1P05LBS/bbcafe-logo-black-discord.png" alt="Logo" width="150" height="150">
+    <img src="https://i.postimg.cc/sDJkggt8/Logo-white.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Real State Website - Español</h3>
